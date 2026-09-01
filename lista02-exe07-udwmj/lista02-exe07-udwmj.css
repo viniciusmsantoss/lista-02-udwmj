@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+footer {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+footer a {
+  color: #38bdf8;
+  text-decoration: none;
+}
